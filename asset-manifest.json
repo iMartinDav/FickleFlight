@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FickleFlight/static/css/main.2867d954.css",
+    "main.js": "/FickleFlight/static/js/main.d3c70aad.js",
+    "static/js/787.c97338c4.chunk.js": "/FickleFlight/static/js/787.c97338c4.chunk.js",
+    "index.html": "/FickleFlight/index.html",
+    "main.2867d954.css.map": "/FickleFlight/static/css/main.2867d954.css.map",
+    "main.d3c70aad.js.map": "/FickleFlight/static/js/main.d3c70aad.js.map",
+    "787.c97338c4.chunk.js.map": "/FickleFlight/static/js/787.c97338c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2867d954.css",
+    "static/js/main.d3c70aad.js"
+  ]
+}
